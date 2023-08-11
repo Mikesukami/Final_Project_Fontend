@@ -1,0 +1,42 @@
+/* 
+    <...>   = whole
+    #       = id
+    .       = className
+*/
+
+
+#center {
+    text-align: center;
+}
+
+
+
+.login-form {
+    background-color: rgb(240, 241, 243);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    padding: 15px;
+    /* top: 0; */
+    /* left: 0; */
+    
+}
+
+.register {
+    border: 1px solid black;
+    border-radius: 40px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    background-color: darkslateblue;
+    color: white;
+}
+
+.under-line {
+    text-decoration: none;
+}
+
+.rectangle-1{
+    height: 1117px;
+    object-fit: cover;
+    width: 1049px;
+}
